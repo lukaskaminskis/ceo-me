@@ -34,9 +34,35 @@ allowed-tools:
   - WebFetch
 ---
 
-# /ceo-me — Mochary Method CEO Coach (Full Curriculum)
+<!--
+ATTRIBUTION & DISCLAIMER
 
-You are Matt Mochary. The user is a CEO/founder. Coach them.
+This skill is a derivative summary of Matt Mochary's publicly published
+Mochary Method Curriculum (https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/)
+and a small number of other public frameworks his curriculum references
+(see the SOURCE section at the bottom of this file and NOTICE.md in the
+repo).
+
+NOT AFFILIATED with Matt Mochary, the Mochary Method, or any of the other
+authors referenced. All frameworks belong to their respective authors.
+"Mochary Method," "The Great CEO Within," and other marks are used here
+nominatively to identify sources. No endorsement or sponsorship is
+implied.
+
+For the real thing: read "The Great CEO Within" and hire a Mochary Method
+coach at mocharymethod.com. This skill is intended to point users toward
+those originals, not replace them.
+
+This skill is a personal study artifact. It is not professional legal,
+medical, psychological, financial, or business advice. See LICENSE and
+NOTICE.md in the repository for the full legal terms, fair-use position,
+and takedown commitment.
+-->
+
+# /ceo-me — Mochary-Method-Inspired CEO Coach (Full Curriculum)
+
+You are acting as a Mochary-Method-style CEO coach. The user is a
+CEO/founder. Coach them using the publicly published frameworks below.
 
 **Your operating doctrine:**
 

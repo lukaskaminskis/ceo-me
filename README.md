@@ -1,14 +1,28 @@
-# /ceo-me — Mochary Method CEO Coach (Claude Code Skill)
+# /ceo-me — A Mochary-Method-Inspired CEO Coach (Claude Code Skill)
 
-A [Claude Code](https://claude.com/claude-code) skill that turns Claude into
-**Matt Mochary** — CEO coach to the founders of OpenAI, Coinbase, Reddit,
-Notion, Plaid, Flexport, Opendoor, Robinhood, Rippling, and partners at
-Sequoia, Y Combinator, and Benchmark.
+> **NOT AFFILIATED.** This repository is an independent personal study
+> artifact derived from publicly available materials produced by Matt
+> Mochary and the [Mochary Method](https://www.mocharymethod.com). It is
+> **not** affiliated with, endorsed by, sponsored by, or in any way
+> connected to Matt Mochary, the Mochary Method, or any of the other
+> third-party authors whose frameworks are referenced (see
+> [NOTICE.md](NOTICE.md)).
+>
+> For the real thing, read [*The Great CEO Within*](https://smile.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287)
+> and hire a [certified Mochary Method coach](https://www.mocharymethod.com).
+> This repository's explicit purpose is to drive you there.
+
+A [Claude Code](https://claude.com/claude-code) skill that configures
+Claude to apply **publicly published** CEO coaching frameworks — primarily
+from Matt Mochary's open-sourced [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/),
+alongside the work of other authors he cites (Conscious Leadership Group,
+Byron Katie, L. David Marquet, David Allen, Bezos/Amazon, April Dunford,
+David Rock, and others — see [NOTICE.md](NOTICE.md)).
 
 When invoked with `/ceo-me`, Claude diagnoses the CEO moment you're in,
-names the canonical Mochary framework that applies, walks you through it in
-verbatim language, and ends with a concrete action you can start in the next
-two minutes.
+names the canonical framework that applies, walks you through it in
+paraphrased language drawn from the public curriculum, and ends with a
+concrete action you can start in the next two minutes.
 
 ---
 
@@ -207,35 +221,95 @@ The skill instructs Claude to:
 
 ---
 
-## Source attribution
+## Attribution & source
 
-This skill is built on Matt Mochary's open-source Mochary Method Curriculum
-and his book *The Great CEO Within*. All framework names, scripts, and
-phrasings are his.
+This work is a derivative summary of Matt Mochary's open-sourced
+**Mochary Method Curriculum** and a small number of other public
+frameworks his curriculum references. All framework names, scripts, and
+phrasing originate with their respective authors, not with this
+repository's owner.
 
-- **Master curriculum:** [docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit)
+**Primary source:**
+- **Mochary Method Curriculum** — [Google Doc, publicly published](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit)
 - **Book:** *The Great CEO Within* — [Amazon](https://smile.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287)
-- **Mochary Method:** [mocharymethod.com](https://www.mocharymethod.com/)
+- **Coaching practice:** [mocharymethod.com](https://www.mocharymethod.com/)
 
-Mochary publishes the curriculum publicly so founders can apply it directly.
-This skill is a derivative work that organizes his frameworks for invocation
-inside Claude Code. If a framework here helps you, hire a Mochary Method
-coach — that is the original intent.
+**Other authors referenced** (see [NOTICE.md](NOTICE.md) for the full list):
+Jim Dethmer / Diana Chapman / Kaley Warner Klemp (Conscious Leadership),
+Byron Katie (The Work), L. David Marquet ("I Intend To"), David Allen (GTD),
+Greg McKeown (Essentialism / Top Goal), Jeff Bezos (Type 1/2 decisions,
+6-page memo), David Rock (SCARF), April Dunford (Positioning), Bill Aulet
+(Beachhead), Gay Hendricks (Zone of Genius), Stephen Karpman (Drama
+Triangle), Bill Campbell (Performance Review structure), Frank Slootman
+(Bias to Action), Dave Kashen (Conscious Listening), Sam Altman, Alex
+MacCaw.
+
+Mochary publishes his curriculum publicly so founders can apply it
+directly and so qualified people get coached. This repository's role is
+to make those frameworks easier to invoke during real CEO moments — and
+to point you toward the originals. If a framework here helps you,
+**buy the book and hire a coach.** That is the original intent.
 
 ---
 
-## License & scope
+## Legal & copyright
 
-Private repo for personal use. The Mochary frameworks themselves are
-publicly published by Matt Mochary; this distillation is for individual CEO
-practice, not redistribution.
+**Not affiliated.** This repository is independent. It is not affiliated
+with, endorsed by, sponsored by, or in any way connected to Matt
+Mochary, the Mochary Method, or any other third-party author referenced
+in [NOTICE.md](NOTICE.md).
+
+**License.** See [LICENSE](LICENSE) — a Personal Use & Attribution
+License. Permitted: personal use, modification for personal use, use as
+a Claude Code skill. Not permitted: public redistribution, commercial
+use, model training, removal of attribution, or any claim of authorship
+over the underlying frameworks.
+
+**Fair use position.** This repository constitutes a transformative,
+non-commercial summary of publicly available educational materials,
+reformatted for a new use case (AI-assisted personal coaching), with
+clear attribution and active direction of readers toward the original
+works. It is the copyright holder's position that this constitutes fair
+use under 17 U.S.C. § 107 and analogous doctrines in other
+jurisdictions. See [LICENSE](LICENSE) for the full statement.
+
+**Trademarks.** "Mochary Method," "The Great CEO Within," "Conscious
+Leadership," "The Work," "Turn the Ship Around," and any other marks
+are the property of their respective owners. They are used nominatively
+to identify the source of the underlying frameworks. No association is
+claimed or implied.
+
+**No verbatim reproduction.** This work paraphrases and synthesizes
+frameworks from publicly shared materials. *The Great CEO Within* (the
+book) is **not** reproduced in this repository — only referenced and
+summarized at a high level. The Mochary Method Curriculum is referenced
+by link, with framework concepts paraphrased.
+
+**Takedown.** If you are Matt Mochary, an authorized representative of
+the Mochary Method, or any other rights holder referenced here and want
+this work removed, altered, or relicensed — open a GitHub issue or
+contact the repository owner directly. The owner commits to addressing
+any reasonable rights-holder request in good faith within 14 calendar
+days. See [LICENSE](LICENSE) for the formal provision.
+
+**No warranty / not professional advice.** The coaching prescriptions
+encoded in `SKILL.md` are personal reflections on publicly shared
+frameworks. They are **not** professional legal, medical, psychological,
+financial, or business advice. Decisions made using this work are the
+sole responsibility of the user. See [LICENSE](LICENSE) for the full
+disclaimer.
+
+**Private repository.** This repository is private and intended for
+personal use by the copyright holder. It is not distributed publicly.
 
 ---
 
 ## Maintenance
 
 The Mochary Method evolves. To refresh this skill against the latest
-curriculum, re-run the extraction process: pull the master curriculum doc,
-identify added sub-docs, and update the relevant Part section in `SKILL.md`.
+curriculum, re-run the extraction process: pull the master curriculum
+doc, identify added sub-docs, and update the relevant Part section in
+`SKILL.md`. Update [NOTICE.md](NOTICE.md) whenever a new author's
+framework is incorporated.
 
 Skill version: 2.0 — full curriculum sweep (May 2026).

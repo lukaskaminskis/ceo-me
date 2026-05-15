@@ -1,0 +1,144 @@
+Personal Use & Attribution License
+
+Copyright (c) 2026 Lukas Kaminskis
+
+================================================================================
+NOT AFFILIATED WITH MATT MOCHARY OR THE MOCHARY METHOD
+================================================================================
+
+This repository is an independent, personal study artifact derived from
+publicly available materials produced by Matt Mochary and the Mochary
+Method (https://www.mocharymethod.com). It is NOT affiliated with,
+endorsed by, sponsored by, or in any way connected to Matt Mochary, the
+Mochary Method, or any of the other third-party authors whose frameworks
+are referenced (see NOTICE.md). The author of this repository is the sole
+party responsible for its contents.
+
+================================================================================
+WHAT THIS IS
+================================================================================
+
+A derivative summary of publicly published frameworks, organized as a
+configuration file for Claude Code (https://claude.com/claude-code) so an
+AI assistant can apply those frameworks during personal coaching sessions
+for the copyright holder.
+
+It is not a substitute for:
+  - Reading "The Great CEO Within" by Matt Mochary
+  - Hiring a Mochary Method coach
+  - Reading the original source materials linked in SKILL.md and NOTICE.md
+  - Professional legal, medical, psychological, or financial advice
+
+================================================================================
+PERMITTED USE
+================================================================================
+
+  * Personal use by the copyright holder.
+  * Use as a configuration file for Claude Code or other personal AI
+    assistants for coaching, learning, and reflection.
+  * Modification, annotation, and extension for personal use.
+  * Sharing with individuals to whom the copyright holder has given
+    explicit access, provided all attribution, this LICENSE, and the
+    NOTICE.md file remain intact.
+
+================================================================================
+NOT PERMITTED
+================================================================================
+
+  * Public redistribution, republication, mirroring, or resale of this
+    repository or any substantial portion of its contents.
+  * Commercial use, including but not limited to: paid coaching products,
+    SaaS tools, training data for foundation models, or any use that
+    competes commercially with the original works summarized here.
+  * Removal or alteration of attribution, copyright notices, source links,
+    NOTICE.md, or this LICENSE.
+  * Any representation that this work is authored, endorsed, or approved
+    by Matt Mochary, the Mochary Method, or any other third-party author
+    listed in NOTICE.md.
+  * Any claim of original authorship over the underlying frameworks,
+    which belong to their respective creators.
+
+================================================================================
+ATTRIBUTION OF UNDERLYING WORK
+================================================================================
+
+The frameworks distilled in SKILL.md are the intellectual property of
+their respective authors. See NOTICE.md for a complete attribution list.
+
+Primary source:
+  Matt Mochary, "Mochary Method Curriculum" (publicly published)
+  https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/
+
+  Matt Mochary, "The Great CEO Within" (Lioncrest, 2019)
+  https://smile.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287
+
+Users of this repository are strongly encouraged to:
+  - Purchase "The Great CEO Within."
+  - Hire a certified Mochary Method coach at mocharymethod.com.
+  - Read the original sub-documents linked in SKILL.md and NOTICE.md.
+
+================================================================================
+TRADEMARKS
+================================================================================
+
+"Mochary Method," "The Great CEO Within," "Conscious Leadership," "The
+Work," "Turn the Ship Around," and any other marks referenced here are
+the property of their respective owners. They are used in this repository
+solely under the doctrine of nominative fair use to identify the source
+of the underlying frameworks. No challenge to any trademark or claim of
+association is intended.
+
+================================================================================
+TAKEDOWN
+================================================================================
+
+If you are Matt Mochary, an authorized representative of the Mochary
+Method, or any other rights holder referenced in this repository, and
+you wish this work to be removed, altered, or relicensed, contact the
+repository owner via GitHub and the matter will be addressed promptly
+and in good faith. The copyright holder commits to remove or amend any
+content upon a reasonable rights-holder request within fourteen (14)
+calendar days of receipt.
+
+================================================================================
+NO WARRANTY
+================================================================================
+
+THE SOFTWARE AND ASSOCIATED MATERIALS ARE PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THIS WORK OR ITS USE.
+
+The coaching prescriptions encoded in SKILL.md are personal reflections
+on publicly shared frameworks and are NOT professional legal, medical,
+psychological, financial, or business advice. Decisions made using this
+work are the sole responsibility of the user.
+
+================================================================================
+FAIR USE STATEMENT
+================================================================================
+
+This repository constitutes a transformative summary of publicly
+available educational materials, organized for a specific non-commercial
+purpose: enabling an AI assistant to apply Matt Mochary's publicly
+published frameworks during personal coaching conversations with the
+copyright holder. It is the position of the copyright holder that this
+constitutes fair use under 17 U.S.C. § 107 (United States) and analogous
+doctrines in other jurisdictions, considering:
+
+  1. Purpose and character: non-commercial, transformative (reformatted
+     for a new use case — AI-assisted personal coaching).
+  2. Nature of the original work: publicly published, openly distributed
+     educational material that the original author has invited people to
+     learn from and apply.
+  3. Amount used: frameworks are paraphrased and synthesized; no
+     copyrighted book (including "The Great CEO Within") is reproduced
+     verbatim or in substantial part.
+  4. Market effect: this work drives users TOWARD the original (book
+     purchases, coach hiring), not away from it.
+
+This statement is the copyright holder's position and is not a
+determination of law. Disputes will be addressed under the takedown
+provision above.
