@@ -299,8 +299,13 @@ financial, or business advice. Decisions made using this work are the
 sole responsibility of the user. See [LICENSE](LICENSE) for the full
 disclaimer.
 
-**Private repository.** This repository is private and intended for
-personal use by the copyright holder. It is not distributed publicly.
+**Public, non-commercial.** This repository is published openly under a
+Personal Use & Attribution License (see [LICENSE](LICENSE)) so that any
+individual can install the skill for their own coaching, learning, and
+reflection. It is **not** licensed for commercial use, model training,
+or republication of substantial portions. If you use this and it helps
+you — buy *The Great CEO Within* and hire a Mochary Method coach. That
+is the explicit purpose of this repository.
 
 ---
 

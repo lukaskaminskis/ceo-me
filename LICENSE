@@ -33,28 +33,35 @@ It is not a substitute for:
 PERMITTED USE
 ================================================================================
 
-  * Personal use by the copyright holder.
+  * Personal, non-commercial use by any individual for coaching,
+    learning, reflection, and self-development.
   * Use as a configuration file for Claude Code or other personal AI
-    assistants for coaching, learning, and reflection.
+    assistants.
   * Modification, annotation, and extension for personal use.
-  * Sharing with individuals to whom the copyright holder has given
-    explicit access, provided all attribution, this LICENSE, and the
-    NOTICE.md file remain intact.
+  * Cloning this repository for personal use.
+  * Linking to this repository.
+  * Quoting short excerpts with attribution for commentary, review, or
+    academic purposes.
 
 ================================================================================
 NOT PERMITTED
 ================================================================================
 
-  * Public redistribution, republication, mirroring, or resale of this
-    repository or any substantial portion of its contents.
-  * Commercial use, including but not limited to: paid coaching products,
-    SaaS tools, training data for foundation models, or any use that
-    competes commercially with the original works summarized here.
-  * Removal or alteration of attribution, copyright notices, source links,
-    NOTICE.md, or this LICENSE.
-  * Any representation that this work is authored, endorsed, or approved
-    by Matt Mochary, the Mochary Method, or any other third-party author
-    listed in NOTICE.md.
+  * Republication, mirroring, or re-hosting of substantial portions of
+    this repository on other platforms, public or private, without
+    written permission.
+  * Resale or any commercial use, including but not limited to: paid
+    coaching products, paid courses, SaaS tools that wrap this content,
+    or any product that competes with the original works summarized
+    here ("The Great CEO Within" and the Mochary Method curriculum).
+  * Use of this repository, in whole or in substantial part, as
+    training data for foundation models, fine-tuning datasets, or any
+    machine-learning system.
+  * Removal or alteration of attribution, copyright notices, source
+    links, NOTICE.md, or this LICENSE.
+  * Any representation that this work is authored, endorsed, or
+    approved by Matt Mochary, the Mochary Method, or any other
+    third-party author listed in NOTICE.md.
   * Any claim of original authorship over the underlying frameworks,
     which belong to their respective creators.
 
@@ -121,24 +128,30 @@ FAIR USE STATEMENT
 ================================================================================
 
 This repository constitutes a transformative summary of publicly
-available educational materials, organized for a specific non-commercial
-purpose: enabling an AI assistant to apply Matt Mochary's publicly
-published frameworks during personal coaching conversations with the
-copyright holder. It is the position of the copyright holder that this
-constitutes fair use under 17 U.S.C. § 107 (United States) and analogous
-doctrines in other jurisdictions, considering:
+available educational materials, organized for a specific
+non-commercial purpose: enabling an AI assistant to apply publicly
+published CEO coaching frameworks during personal coaching
+conversations with anyone who installs the skill. It is the position
+of the copyright holder that this constitutes fair use under 17 U.S.C.
+§ 107 (United States) and analogous doctrines in other jurisdictions,
+considering:
 
-  1. Purpose and character: non-commercial, transformative (reformatted
-     for a new use case — AI-assisted personal coaching).
+  1. Purpose and character: non-commercial, educational, transformative
+     (reformatted for a new use case — AI-assisted personal coaching —
+     not a substitute for the source works).
   2. Nature of the original work: publicly published, openly distributed
-     educational material that the original author has invited people to
-     learn from and apply.
+     educational material that the original author Matt Mochary has
+     explicitly invited people to learn from and apply, with the express
+     goal of spreading the methodology.
   3. Amount used: frameworks are paraphrased and synthesized; no
      copyrighted book (including "The Great CEO Within") is reproduced
-     verbatim or in substantial part.
+     verbatim or in substantial part. Only short framework names and
+     concepts — none of which are individually copyrightable as ideas —
+     are reused, each with attribution.
   4. Market effect: this work drives users TOWARD the original (book
-     purchases, coach hiring), not away from it.
+     purchases, coach hiring at mocharymethod.com), not away from it.
+     This is reinforced throughout README.md, NOTICE.md, and SKILL.md.
 
 This statement is the copyright holder's position and is not a
-determination of law. Disputes will be addressed under the takedown
-provision above.
+determination of law. Disputes will be addressed in good faith under
+the takedown provision above.
