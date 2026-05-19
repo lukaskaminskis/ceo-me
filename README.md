@@ -10,25 +10,30 @@ A Claude Code skill that turns Claude into a Mochary-Method-style CEO coach.
 
 ## Why this skill
 
-I'm a cofounder and CEO of Turing College. Together with my cofounders
-and team, we took it from zero to a multi-million-dollar education
-company. The Mochary Method was the single most useful operating
-resource I found along the way — the one I returned to whenever I
-needed to actually do the job, not just think about it. I read about
-30 management books getting there; the only one I'd put in the same
-bracket on insight density and operational impact is Andy Grove's
-*Only the Paranoid Survive*.
+This is a Claude skill containing Matt Mochary's CEO coaching playbook.
+Mochary coaches the CEOs of OpenAI, Coinbase, Reddit, Notion, Flexport,
+and Rippling, but the frameworks survive translation. What works at
+five thousand people works at five.
 
-The reason it works is mechanical, not inspirational. Every framework
-ships with the *exact sentence to say* in the moment — *"I think I
-heard you say…"*, *"I intend to…"*, *"This is going to be a difficult
-conversation."* You stop hunting for the right words and start having
-the right conversations. One delayed firing finally executed, one bad
-hire avoided, one cofounder conversation done cleanly — each of those
-pays for the practice ten times over.
+I read about thirty management books building Turing College. Mochary
+was the one I kept coming back to whenever I had to actually do the
+job, not just think about it. The only other book in the same bracket
+on insight density is Andy Grove's *Only the Paranoid Survive*.
 
-I built this skill so the playbook is one keystroke away. For me, for
-my team, and for anyone trying to do the same.
+What sets it apart is the resolution. Most management writing operates
+at the level of principles. You finish a chapter knowing what kind of
+leader you should be, but not what to say at 2pm when a senior engineer
+is upset and you have eight minutes until your next meeting. Mochary
+works at the level of sentences. *"I think I heard you say…"* *"I
+intend to…"* *"This is going to be a difficult conversation."* You stop
+hunting for the right phrasing and start having the right conversations.
+
+The payoffs are big and lumpy. One delayed firing finally executed. One
+bad hire you didn't make. One cofounder conversation done cleanly
+instead of left to fester. Any one pays back the practice ten times
+over. I built this for myself, but most managers I know are working
+through the same recurring problems. If you're one of them, the
+playbook is now one keystroke away.
 
 ## What it does
 
