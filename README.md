@@ -10,7 +10,8 @@ A Claude Code skill that turns Claude into a Mochary-Method-style CEO coach.
 
 ## Why this skill
 
-I built Turing College from zero to a multi-million-dollar education
+I'm a cofounder and CEO of Turing College. Together with my cofounders
+and team, we took it from zero to a multi-million-dollar education
 company. The Mochary Method was the single most useful operating
 resource I found along the way — the one I returned to whenever I
 needed to actually do the job, not just think about it. I read about
