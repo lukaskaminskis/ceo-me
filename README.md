@@ -8,6 +8,27 @@ A Claude Code skill that turns Claude into a Mochary-Method-style CEO coach.
 > the real thing: buy [*The Great CEO Within*](https://smile.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287)
 > and hire a [Mochary Method coach](https://www.mocharymethod.com).
 
+## Why this skill
+
+I built Turing College from zero to a multi-million-dollar education
+company. The Mochary Method was the single most useful operating
+resource I found along the way — the one I returned to whenever I
+needed to actually do the job, not just think about it. I read about
+30 management books getting there; the only one I'd put in the same
+bracket on insight density and operational impact is Andy Grove's
+*Only the Paranoid Survive*.
+
+The reason it works is mechanical, not inspirational. Every framework
+ships with the *exact sentence to say* in the moment — *"I think I
+heard you say…"*, *"I intend to…"*, *"This is going to be a difficult
+conversation."* You stop hunting for the right words and start having
+the right conversations. One delayed firing finally executed, one bad
+hire avoided, one cofounder conversation done cleanly — each of those
+pays for the practice ten times over.
+
+I built this skill so the playbook is one keystroke away. For me, for
+my team, and for anyone trying to do the same.
+
 ## What it does
 
 Type `/ceo-me` and describe what you're facing. Claude diagnoses the
